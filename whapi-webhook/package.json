@@ -1,5 +1,6 @@
 {
   "name": "whapi-webhook",
   "version": "1.0.0",
-  "private": true
+  "main": "api/webhook.js",
+  "license": "MIT"
 }
